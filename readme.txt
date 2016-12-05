@@ -1,1 +1,1 @@
-hello cloud 4
+AWS CloudFormation templates for customers presntation.
